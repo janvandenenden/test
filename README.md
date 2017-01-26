@@ -1,5 +1,7 @@
 # Hallo
 
+![logo](https://allaboutjohnmcblain.files.wordpress.com/2014/01/got-logo.jpg)
+
 ## Description
 
 ik ben de testfile
@@ -13,5 +15,3 @@ ik ben de testfile
 
 `left`
 `right`
-
-![logo](http://combiboilersleeds.com/images/got/got-6.jpg)
