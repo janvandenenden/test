@@ -13,3 +13,5 @@ ik ben de testfile
 
 `left`
 `right`
+
+![logo](http://combiboilersleeds.com/images/got/got-6.jpg)
